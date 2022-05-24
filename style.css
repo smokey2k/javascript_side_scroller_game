@@ -3,7 +3,7 @@ body {
 }
 
 #canvas1 {
-    background-color: blue;
+    background-color: black;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -13,4 +13,9 @@ body {
 
 #playerImage, #backgroundImage, #enemyImage {
     display: none;
+}
+
+.lopikula {
+    color: white;
+    text-align: center;
 }
